@@ -30,7 +30,7 @@ https://bytesve.com/wp-content/uploads/2019/11/logo_js.png
 
 ### Links utiles
 
-![](https://www.linkedin.com/in/martin-lopez-130a2738/) 
+![Linkedin](https://www.linkedin.com/in/martin-lopez-130a2738/) 
 
 ### Support or Contact
 
