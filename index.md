@@ -22,7 +22,7 @@ https://bytesve.com/wp-content/uploads/2019/11/logo_js.png
 [Prog Web PHP y MySQL](https://tinchossh.github.io/Certificaciones/Prog%20Web%20PHP%20y%20MySQL.pdf) - <img src="https://www.vhv.rs/viewpic/wRRiJ_transparent-money-bag-icon-hd-png-download/#" width= 32px height= 32px>
 
 
-[Presupuesto Web](https://tinchossh.github.io/Certificaciones/Presupuesto%20Web.pdf) - <img src="https://www.shareicon.net/data/128x128/2015/09/17/102347_css3_512x512.png" width= 32px height= 32px>
+[Presupuesto Web](https://tinchossh.github.io/Certificaciones/Presupuesto%20Web.pdf) - <img src="https://mpng.subpng.com/20190210/tr/kisspng-clip-art-money-bag-portable-network-graphics-vecto-diccionario-econmico-google-5c608b8a0d7049.7486419615498310500551.jpg" width= 32px height= 32px>
 
 
 
