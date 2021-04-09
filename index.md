@@ -2,7 +2,7 @@
 
 Aqui podra ver mis conocimientos academicos
 
-[HTML5 - Fundamentos](https://tinchossh.github.io/Certificaciones/HTML5%20-%20Fundamentos.pdf) - <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" title="HTML5">
+[HTML5 - Fundamentos](https://tinchossh.github.io/Certificaciones/HTML5%20-%20Fundamentos.pdf) - <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" title="HTML5" width= 200px height= 200px>
 
 [Maquetacion Web HTML5 y CSS3](https://tinchossh.github.io/Certificaciones/Maquetacion%20Web%20HTML5%20y%20CSS3.pdf) 
 
