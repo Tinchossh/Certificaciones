@@ -8,15 +8,22 @@ Aqui podra ver mis conocimientos academicos
 
 
 
-[Javascript desde 0](https://tinchossh.github.io/Certificaciones/Javascript%20desde%200.pdf) 
+[Javascript desde 0](https://tinchossh.github.io/Certificaciones/Javascript%20desde%200.pdf) - <img src="https://www.shareicon.net/data/128x128/2015/09/17/102347_css3_512x512.png" width= 32px height= 32px>
 
-[Javascript Avanzado](https://tinchossh.github.io/Certificaciones/Javascript%20Avanzado.pdf) 
 
-[Introduccion a POO](https://tinchossh.github.io/Certificaciones/Introduccion%20a%20POO.pdf) 
 
-[Prog Web PHP y MySQL](https://tinchossh.github.io/Certificaciones/Prog%20Web%20PHP%20y%20MySQL.pdf) 
+https://bytesve.com/wp-content/uploads/2019/11/logo_js.png
+[Javascript Avanzado](https://tinchossh.github.io/Certificaciones/Javascript%20Avanzado.pdf) - <img src="https://www.shareicon.net/data/128x128/2015/09/17/102347_css3_512x512.png" width= 32px height= 32px>
 
-[Presupuesto Web](https://tinchossh.github.io/Certificaciones/Presupuesto%20Web.pdf)
+
+[Introduccion a POO](https://tinchossh.github.io/Certificaciones/Introduccion%20a%20POO.pdf) - <img src="https://www.shareicon.net/data/128x128/2015/09/17/102347_css3_512x512.png" width= 32px height= 32px>
+
+
+[Prog Web PHP y MySQL](https://tinchossh.github.io/Certificaciones/Prog%20Web%20PHP%20y%20MySQL.pdf) - <img src="https://www.shareicon.net/data/128x128/2015/09/17/102347_css3_512x512.png" width= 32px height= 32px>
+
+
+[Presupuesto Web](https://tinchossh.github.io/Certificaciones/Presupuesto%20Web.pdf) - <img src="https://www.shareicon.net/data/128x128/2015/09/17/102347_css3_512x512.png" width= 32px height= 32px>
+
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
