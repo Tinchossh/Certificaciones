@@ -8,12 +8,12 @@ Aqui podra ver mis conocimientos academicos
 
 
 
-[Javascript desde 0](https://tinchossh.github.io/Certificaciones/Javascript%20desde%200.pdf) - <img src="https://www.shareicon.net/data/128x128/2015/09/17/102347_css3_512x512.png" width= 32px height= 32px>
+[Javascript desde 0](https://tinchossh.github.io/Certificaciones/Javascript%20desde%200.pdf) - <img src="https://bytesve.com/wp-content/uploads/2019/11/logo_js.png" width= 32px height= 32px>
 
 
 
 https://bytesve.com/wp-content/uploads/2019/11/logo_js.png
-[Javascript Avanzado](https://tinchossh.github.io/Certificaciones/Javascript%20Avanzado.pdf) - <img src="https://www.shareicon.net/data/128x128/2015/09/17/102347_css3_512x512.png" width= 32px height= 32px>
+[Javascript Avanzado](https://tinchossh.github.io/Certificaciones/Javascript%20Avanzado.pdf) - <img src="https://bytesve.com/wp-content/uploads/2019/11/logo_js.png" width= 32px height= 32px>
 
 
 [Introduccion a POO](https://tinchossh.github.io/Certificaciones/Introduccion%20a%20POO.pdf) - <img src="https://www.shareicon.net/data/128x128/2015/09/17/102347_css3_512x512.png" width= 32px height= 32px>
