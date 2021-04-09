@@ -4,7 +4,7 @@ Aqui podra ver mis conocimientos academicos
 
 [HTML5 - Fundamentos](https://tinchossh.github.io/Certificaciones/HTML5%20-%20Fundamentos.pdf) - <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" title="HTML5" width= 32px height= 32px>
 
-[Maquetacion Web HTML5 y CSS3](https://tinchossh.github.io/Certificaciones/Maquetacion%20Web%20HTML5%20y%20CSS3.pdf) - <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ficon%2Fcss-118&psig=AOvVaw3eflJ3ekdtKniEdsS0SGZ8&ust=1618037207296000&source=images&cd=vfe&ved=2ahUKEwjljYi5yPDvAhXvspUCHT7dDO0QjRx6BAgAEAc" width= 32px height= 32px>
+[Maquetacion Web HTML5 y CSS3](https://tinchossh.github.io/Certificaciones/Maquetacion%20Web%20HTML5%20y%20CSS3.pdf) - <img src="https://www.shareicon.net/data/128x128/2015/09/17/102347_css3_512x512.png" width= 32px height= 32px>
 
 
 
