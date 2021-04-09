@@ -1,30 +1,21 @@
-## Welcome to GitHub Pages
+## Bienvenido al sitio de Certificaciones
 
-You can use the [editor on GitHub](https://github.com/Tinchossh/Certificaciones/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Aqui podra ver mis conocimientos academicos
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[HTML5 - Fundamentos](https://tinchossh.github.io/Certificaciones/HTML5%20-%20Fundamentos.pdf) 
 
-### Markdown
+[Maquetacion Web HTML5 y CSS3](https://tinchossh.github.io/Certificaciones/Maquetacion%20Web%20HTML5%20y%20CSS3.pdf) 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Javascript desde 0](https://tinchossh.github.io/Certificaciones/Javascript%20desde%200.pdf) 
 
-```markdown
-Syntax highlighted code block
+[Javascript Avanzado](https://tinchossh.github.io/Certificaciones/Javascript%20Avanzado.pdf) 
 
-# Header 1
-## Header 2
-### Header 3
+[Introduccion a POO](https://tinchossh.github.io/Certificaciones/Introduccion%20a%20POO.pdf) 
 
-- Bulleted
-- List
+[Prog Web PHP y MySQL](https://tinchossh.github.io/Certificaciones/Prog%20Web%20PHP%20y%20MySQL.pdf) 
 
-1. Numbered
-2. List
+[Presupuesto Web](https://tinchossh.github.io/Certificaciones/Presupuesto%20Web.pdf)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
